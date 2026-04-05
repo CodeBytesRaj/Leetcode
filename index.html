@@ -3,26 +3,44 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>NSCIF 2026 – Student Changemakers Project Showcase</title>
+    <title>Student Changemakers - Project Showcase</title>
     <style>
       :root {
-        --bg: #0b1020;
-        --panel: rgba(255, 255, 255, 0.06);
-        --panel-2: rgba(255, 255, 255, 0.085);
-        --text: rgba(255, 255, 255, 0.92);
-        --muted: rgba(255, 255, 255, 0.7);
-        --border: rgba(255, 255, 255, 0.12);
-        --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+        color-scheme: dark;
+        --bg: #070a14;
+        --surface: rgba(255, 255, 255, 0.06);
+        --surface-2: rgba(255, 255, 255, 0.095);
+        --text: rgba(255, 255, 255, 0.94);
+        --muted: rgba(255, 255, 255, 0.8);
+        --border: rgba(255, 255, 255, 0.18);
+        --shadow: 0 16px 50px rgba(0, 0, 0, 0.42);
         --radius: 18px;
 
-        --ok: #33d17a;
-        --progress: #8b5cf6;
-        --done: #22c55e;
-        --delay: #f97316;
+        --accent: #818cf8;
+        --accent-2: #34d399;
+        --accent-3: #fb7185;
 
-        --impact-high: #ef4444;
+        --ok: #34d399;
+        --progress: #818cf8;
+        --done: #22c55e;
+        --delay: #fb7185;
+
+        --impact-high: #fb923c;
         --impact-medium: #fbbf24;
         --impact-low: #60a5fa;
+
+        --focus: rgba(129, 140, 248, 0.82);
+      }
+
+      [data-theme="light"] {
+        color-scheme: light;
+        --bg: #f7f7fb;
+        --surface: rgba(0, 0, 0, 0.04);
+        --surface-2: rgba(0, 0, 0, 0.06);
+        --text: rgba(0, 0, 0, 0.9);
+        --muted: rgba(0, 0, 0, 0.7);
+        --border: rgba(0, 0, 0, 0.12);
+        --shadow: 0 16px 40px rgba(2, 6, 23, 0.12);
       }
 
       * {
@@ -39,10 +57,13 @@
         font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial,
           "Apple Color Emoji", "Segoe UI Emoji";
         color: var(--text);
-        background: radial-gradient(1200px 600px at 20% -10%, rgba(99, 102, 241, 0.5), transparent 60%),
-          radial-gradient(1000px 700px at 90% 0%, rgba(34, 197, 94, 0.35), transparent 55%),
-          radial-gradient(900px 700px at 50% 120%, rgba(249, 115, 22, 0.25), transparent 55%),
+        background: radial-gradient(1200px 650px at 18% -10%, rgba(129, 140, 248, 0.45), transparent 58%),
+          radial-gradient(1000px 700px at 92% 2%, rgba(52, 211, 153, 0.24), transparent 56%),
+          radial-gradient(900px 720px at 50% 120%, rgba(251, 113, 133, 0.16), transparent 58%),
           var(--bg);
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
       }
 
       a {
@@ -55,12 +76,12 @@
       }
 
       header.hero {
-        padding: 42px 0 18px;
+        padding: 42px 0 14px;
       }
 
       .hero-card {
         border: 1px solid var(--border);
-        background: linear-gradient(180deg, rgba(255, 255, 255, 0.075), rgba(255, 255, 255, 0.03));
+        background: linear-gradient(180deg, var(--surface-2), var(--surface));
         border-radius: calc(var(--radius) + 6px);
         box-shadow: var(--shadow);
         padding: 26px;
@@ -72,9 +93,9 @@
         content: "";
         position: absolute;
         inset: -2px;
-        background: radial-gradient(700px 300px at 10% 20%, rgba(139, 92, 246, 0.35), transparent 55%),
-          radial-gradient(700px 300px at 80% 0%, rgba(34, 197, 94, 0.25), transparent 55%),
-          radial-gradient(700px 300px at 60% 90%, rgba(249, 115, 22, 0.2), transparent 55%);
+        background: radial-gradient(700px 300px at 10% 20%, rgba(129, 140, 248, 0.35), transparent 55%),
+          radial-gradient(700px 300px at 82% 0%, rgba(52, 211, 153, 0.22), transparent 55%),
+          radial-gradient(700px 300px at 60% 90%, rgba(251, 113, 133, 0.18), transparent 55%);
         filter: blur(22px);
         opacity: 0.7;
         pointer-events: none;
@@ -82,6 +103,13 @@
 
       .hero-card > * {
         position: relative;
+      }
+
+      .hero-top {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 14px;
       }
 
       h1 {
@@ -97,6 +125,32 @@
         max-width: 75ch;
       }
 
+      .theme-toggle {
+        border: 1px solid var(--border);
+        background: rgba(0, 0, 0, 0.18);
+        color: var(--text);
+        padding: 10px 12px;
+        border-radius: 999px;
+        cursor: pointer;
+        font-weight: 650;
+        letter-spacing: 0.01em;
+        white-space: nowrap;
+        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+      }
+
+      [data-theme="light"] .theme-toggle {
+        background: rgba(255, 255, 255, 0.75);
+      }
+
+      .theme-toggle:focus {
+        outline: none;
+      }
+
+      .theme-toggle:focus-visible {
+        box-shadow: 0 0 0 4px rgba(129, 140, 248, 0.22), 0 10px 24px rgba(0, 0, 0, 0.18);
+        border-color: var(--focus);
+      }
+
       .stats {
         display: grid;
         grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -106,9 +160,13 @@
 
       .stat {
         border: 1px solid var(--border);
-        background: rgba(0, 0, 0, 0.18);
+        background: rgba(0, 0, 0, 0.24);
         border-radius: 14px;
         padding: 12px 14px;
+      }
+
+      [data-theme="light"] .stat {
+        background: rgba(255, 255, 255, 0.6);
       }
 
       .stat .label {
@@ -130,7 +188,7 @@
 
       .controls {
         border: 1px solid var(--border);
-        background: rgba(255, 255, 255, 0.05);
+        background: rgba(255, 255, 255, 0.06);
         border-radius: var(--radius);
         box-shadow: 0 8px 20px rgba(0, 0, 0, 0.22);
         padding: 14px;
@@ -139,6 +197,10 @@
         gap: 10px;
         align-items: center;
         margin-bottom: 14px;
+        position: sticky;
+        top: 12px;
+        z-index: 10;
+        backdrop-filter: blur(10px);
       }
 
       .controls input,
@@ -146,26 +208,66 @@
       .controls button {
         width: 100%;
         border-radius: 12px;
-        border: 1px solid rgba(255, 255, 255, 0.16);
-        background: rgba(0, 0, 0, 0.22);
+        border: 1px solid rgba(255, 255, 255, 0.22);
+        background: rgba(0, 0, 0, 0.36);
         color: var(--text);
         padding: 10px 12px;
         font-size: 14px;
         outline: none;
       }
 
+      [data-theme="light"] .controls {
+        background: rgba(255, 255, 255, 0.78);
+      }
+
+      [data-theme="light"] .controls input,
+      [data-theme="light"] .controls select {
+        background: rgba(255, 255, 255, 0.9);
+        border-color: rgba(2, 6, 23, 0.16);
+      }
+
+      .controls select {
+        color-scheme: dark;
+      }
+
+      .controls option {
+        background: #0b1020;
+        color: rgba(255, 255, 255, 0.94);
+      }
+
+      [data-theme="light"] .controls option {
+        background: #ffffff;
+        color: rgba(0, 0, 0, 0.9);
+      }
+
+      .controls input:focus,
+      .controls select:focus,
+      .controls button:focus {
+        box-shadow: 0 0 0 4px rgba(129, 140, 248, 0.22);
+        border-color: var(--focus);
+      }
+
       .controls input::placeholder {
         color: rgba(255, 255, 255, 0.55);
+      }
+
+      [data-theme="light"] .controls input::placeholder {
+        color: rgba(0, 0, 0, 0.5);
       }
 
       .controls button {
         cursor: pointer;
         font-weight: 600;
-        background: linear-gradient(180deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.06));
+        border-color: rgba(129, 140, 248, 0.35);
+        background: linear-gradient(
+          180deg,
+          rgba(129, 140, 248, 0.28),
+          rgba(129, 140, 248, 0.12)
+        );
       }
 
       .controls button:hover {
-        border-color: rgba(255, 255, 255, 0.28);
+        border-color: rgba(129, 140, 248, 0.6);
       }
 
       .meta-row {
@@ -189,23 +291,53 @@
 
       .card {
         border: 1px solid var(--border);
-        background: rgba(255, 255, 255, 0.05);
+        background: rgba(255, 255, 255, 0.06);
         border-radius: var(--radius);
         padding: 16px;
         box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
-        transition: transform 120ms ease, border-color 120ms ease, background 120ms ease;
+        transition: transform 140ms ease, border-color 140ms ease, background 140ms ease;
+        position: relative;
+        overflow: hidden;
       }
 
       .card:hover {
         transform: translateY(-2px);
         border-color: rgba(255, 255, 255, 0.22);
-        background: rgba(255, 255, 255, 0.06);
+        background: rgba(255, 255, 255, 0.07);
+      }
+
+      .card::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(500px 220px at 0% 0%, rgba(129, 140, 248, 0.16), transparent 60%),
+          radial-gradient(500px 220px at 100% 0%, rgba(52, 211, 153, 0.12), transparent 60%);
+        opacity: 0.9;
+        pointer-events: none;
+      }
+
+      .card > * {
+        position: relative;
+      }
+
+      .card-header {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        align-items: flex-start;
+        margin-bottom: 6px;
       }
 
       .card h2 {
         font-size: 16px;
         margin: 0 0 8px;
         letter-spacing: -0.01em;
+      }
+
+      .card .team {
+        color: var(--muted);
+        font-size: 13px;
+        margin: 0;
       }
 
       .desc {
@@ -229,10 +361,16 @@
         padding: 6px 9px;
         border-radius: 999px;
         font-size: 12px;
-        border: 1px solid rgba(255, 255, 255, 0.14);
-        background: rgba(0, 0, 0, 0.2);
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        background: rgba(0, 0, 0, 0.22);
         color: rgba(255, 255, 255, 0.88);
         white-space: nowrap;
+      }
+
+      [data-theme="light"] .badge {
+        background: rgba(255, 255, 255, 0.85);
+        border-color: rgba(2, 6, 23, 0.12);
+        color: rgba(0, 0, 0, 0.86);
       }
 
       .status {
@@ -240,13 +378,13 @@
       }
 
       .status.on-track {
-        background: rgba(51, 209, 122, 0.15);
-        border-color: rgba(51, 209, 122, 0.35);
+        background: rgba(52, 211, 153, 0.16);
+        border-color: rgba(52, 211, 153, 0.38);
       }
 
       .status.in-progress {
-        background: rgba(139, 92, 246, 0.16);
-        border-color: rgba(139, 92, 246, 0.35);
+        background: rgba(129, 140, 248, 0.16);
+        border-color: rgba(129, 140, 248, 0.38);
       }
 
       .status.completed {
@@ -255,13 +393,13 @@
       }
 
       .status.delayed {
-        background: rgba(249, 115, 22, 0.16);
-        border-color: rgba(249, 115, 22, 0.36);
+        background: rgba(251, 113, 133, 0.18);
+        border-color: rgba(251, 113, 133, 0.42);
       }
 
       .impact.high {
-        background: rgba(239, 68, 68, 0.16);
-        border-color: rgba(239, 68, 68, 0.35);
+        background: rgba(251, 146, 60, 0.16);
+        border-color: rgba(251, 146, 60, 0.35);
       }
 
       .impact.medium {
@@ -272,6 +410,11 @@
       .impact.low {
         background: rgba(96, 165, 250, 0.14);
         border-color: rgba(96, 165, 250, 0.32);
+      }
+
+      .sdg {
+        background: rgba(14, 165, 233, 0.12);
+        border-color: rgba(14, 165, 233, 0.32);
       }
 
       .details {
@@ -290,6 +433,15 @@
         padding: 10px 10px;
       }
 
+      [data-theme="light"] .details {
+        color: rgba(0, 0, 0, 0.78);
+      }
+
+      [data-theme="light"] .details div {
+        background: rgba(255, 255, 255, 0.9);
+        border-color: rgba(2, 6, 23, 0.1);
+      }
+
       .details .k {
         display: block;
         font-size: 11px;
@@ -297,6 +449,10 @@
         text-transform: uppercase;
         color: rgba(255, 255, 255, 0.6);
         margin-bottom: 4px;
+      }
+
+      [data-theme="light"] .details .k {
+        color: rgba(0, 0, 0, 0.55);
       }
 
       .empty {
@@ -310,7 +466,11 @@
 
       footer {
         padding: 22px 0 34px;
-        color: rgba(255, 255, 255, 0.62);
+        color: rgba(255, 255, 255, 0.68);
+      }
+
+      [data-theme="light"] footer {
+        color: rgba(0, 0, 0, 0.62);
       }
 
       .footer-card {
@@ -318,6 +478,17 @@
         border-radius: var(--radius);
         background: rgba(0, 0, 0, 0.18);
         padding: 14px 16px;
+      }
+
+      [data-theme="light"] .footer-card {
+        background: rgba(255, 255, 255, 0.75);
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .card,
+        .controls button {
+          transition: none !important;
+        }
       }
 
       @media (max-width: 980px) {
@@ -352,11 +523,18 @@
     <header class="hero">
       <div class="container">
         <div class="hero-card">
-          <h1>Student Changemakers – Project Showcase</h1>
-          <p class="subtitle">
-            A simple HTML page showcasing NSCIF 2026 student projects with project name, description,
-            SDG focus, and current status.
-          </p>
+          <div class="hero-top">
+            <div>
+              <h1>Student Changemakers – Project Showcase</h1>
+              <p class="subtitle">
+                Explore student-built projects with clear SDG focus and up-to-date status — designed
+                for quick scanning and clean presentation.
+              </p>
+            </div>
+            <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle theme">
+              Theme
+            </button>
+          </div>
 
           <div class="stats" id="stats" aria-label="Summary statistics"></div>
         </div>
@@ -399,9 +577,7 @@
       <div class="container">
         <div class="footer-card">
           <div><strong>Status Legend</strong>: On Track · In Progress · Completed · Delayed</div>
-          <div style="margin-top: 6px">
-            Data source: <span title="Excel source">NSCIF_2026_Dashboard(Assignment_2).xlsx</span>
-          </div>
+          <div style="margin-top: 6px">Use the search + filters to explore teams and projects.</div>
         </div>
       </div>
     </footer>
@@ -444,6 +620,13 @@
         return [...new Set(nums)];
       }
 
+      function safeText(v) {
+        return String(v || "")
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;");
+      }
+
       const raw = document.getElementById("projects-data").textContent;
       const projects = JSON.parse(raw);
 
@@ -456,6 +639,23 @@
       const gridEl = document.getElementById("grid");
       const resultCountEl = document.getElementById("resultCount");
       const statsEl = document.getElementById("stats");
+      const themeToggleEl = document.getElementById("themeToggle");
+
+      function setTheme(theme) {
+        document.documentElement.setAttribute("data-theme", theme);
+        localStorage.setItem("theme", theme);
+        themeToggleEl.textContent = theme === "light" ? "Dark Mode" : "Light Mode";
+      }
+
+      function initTheme() {
+        const saved = localStorage.getItem("theme");
+        if (saved === "light" || saved === "dark") {
+          setTheme(saved);
+          return;
+        }
+        const prefersLight = window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches;
+        setTheme(prefersLight ? "light" : "dark");
+      }
 
       function uniqueSorted(values) {
         const cleaned = values
@@ -490,7 +690,7 @@
           { label: "Total Projects", value: counts.total },
           { label: "On Track", value: counts.onTrack },
           { label: "In Progress", value: counts.inProgress },
-          { label: "Completed + Delayed", value: `${counts.completed} + ${counts.delayed}` },
+          { label: "Completed + Delayed", value: `${counts.completed} + ${counts.delayed}` }
         ];
         for (const it of items) {
           const div = document.createElement("div");
@@ -567,7 +767,6 @@
 
       function cardTemplate(p) {
         const stage = p.stage ? `<span class="badge">Stage: ${p.stage}</span>` : "";
-        const sdg = p.sdgGoals ? `<span class="badge">🎯 ${p.sdgGoals}</span>` : "";
         const status = p.status
           ? `<span class="badge status ${statusClass(p.status)}">● ${p.status}</span>`
           : "";
@@ -575,27 +774,33 @@
           ? `<span class="badge impact ${impactClass(p.impact)}">Impact: ${p.impact}</span>`
           : "";
 
-        const safe = (v) =>
-          String(v || "")
-            .replace(/&/g, "&amp;")
-            .replace(/</g, "&lt;")
-            .replace(/>/g, "&gt;");
+        const sdgNums = extractSdgs(p.sdgGoals);
+        const sdgChips = sdgNums.length
+          ? sdgNums.map((n) => `<span class="badge sdg">SDG ${n}</span>`).join("")
+          : "";
 
         return `
-          <article class="card" aria-label="${safe(p.projectName)}">
-            <h2>${safe(p.projectName)}</h2>
-            <p class="desc">${safe(p.description || "—")}</p>
+          <article class="card" aria-label="${safeText(p.projectName)}">
+            <div class="card-header">
+              <div>
+                <h2>${safeText(p.projectName)}</h2>
+                <p class="team">${safeText(p.teamName || "—")}</p>
+              </div>
+              <div class="badges" style="margin: 0">
+                ${status}
+              </div>
+            </div>
+            <p class="desc">${safeText(p.description || "—")}</p>
             <div class="badges">
-              ${status}
               ${impact}
               ${stage}
-              ${sdg}
+              ${sdgChips}
             </div>
             <div class="details">
-              <div><span class="k">Team</span>${safe(p.teamName || "—")}</div>
-              <div><span class="k">Problem Area</span>${safe(p.problemArea || "—")}</div>
-              <div><span class="k">Tech Stack</span>${safe(p.techStack || "—")}</div>
-              <div><span class="k">Institution / City</span>${safe(p.location || "—")}</div>
+              <div><span class="k">Problem Area</span>${safeText(p.problemArea || "—")}</div>
+              <div><span class="k">Impact</span>${safeText(p.impact || "—")}</div>
+              <div><span class="k">Tech Stack</span>${safeText(p.techStack || "—")}</div>
+              <div><span class="k">Institution / City</span>${safeText(p.location || "—")}</div>
             </div>
           </article>
         `;
@@ -629,6 +834,11 @@
         el.addEventListener("change", render);
       }
       resetEl.addEventListener("click", reset);
+      themeToggleEl.addEventListener("click", () => {
+        const current = document.documentElement.getAttribute("data-theme") || "dark";
+        setTheme(current === "light" ? "dark" : "light");
+      });
+      initTheme();
     </script>
   </body>
 </html>
