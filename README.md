@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/CodeBytesRaj/Leetcode/tree/master/0051-n-queens) |
 | [0641-design-circular-deque](https://github.com/CodeBytesRaj/Leetcode/tree/master/0641-design-circular-deque) |
+| [1260-shift-2d-grid](https://github.com/CodeBytesRaj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/CodeBytesRaj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/CodeBytesRaj/Leetcode/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/CodeBytesRaj/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
