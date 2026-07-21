@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/CodeBytesRaj/Leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
