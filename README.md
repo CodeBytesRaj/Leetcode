@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/CodeBytesRaj/Leetcode/tree/master/0135-candy) |
 | [0641-design-circular-deque](https://github.com/CodeBytesRaj/Leetcode/tree/master/0641-design-circular-deque) |
 | [1260-shift-2d-grid](https://github.com/CodeBytesRaj/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CodeBytesRaj/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
