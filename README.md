@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/CodeBytesRaj/Leetcode/tree/master/0007-reverse-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
