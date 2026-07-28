@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/CodeBytesRaj/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0641-design-circular-deque](https://github.com/CodeBytesRaj/Leetcode/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/CodeBytesRaj/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0761-special-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/0761-special-binary-string) |
 ## Monotonic Stack
 |  |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/CodeBytesRaj/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/CodeBytesRaj/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
