@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/CodeBytesRaj/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0761-special-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CodeBytesRaj/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CodeBytesRaj/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0044-wildcard-matching) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
