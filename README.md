@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CodeBytesRaj/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0761-special-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeBytesRaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
