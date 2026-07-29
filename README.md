@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0007-reverse-integer](https://github.com/CodeBytesRaj/Leetcode/tree/master/0007-reverse-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CodeBytesRaj/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0010-regular-expression-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/CodeBytesRaj/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0044-wildcard-matching) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeBytesRaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CodeBytesRaj/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -136,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/CodeBytesRaj/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CodeBytesRaj/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 ## Greedy
 |  |
 | ------- |
@@ -209,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/CodeBytesRaj/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 <!---LeetCode Topics End-->
