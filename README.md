@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0641-design-circular-deque](https://github.com/CodeBytesRaj/Leetcode/tree/master/0641-design-circular-deque) |
 | [1260-shift-2d-grid](https://github.com/CodeBytesRaj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0761-special-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Prefix Sum
 |  |
 | ------- |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0044-wildcard-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/CodeBytesRaj/Leetcode/tree/master/0135-candy) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CodeBytesRaj/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
