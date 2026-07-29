@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/CodeBytesRaj/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0044-wildcard-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/CodeBytesRaj/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/CodeBytesRaj/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0641-design-circular-deque](https://github.com/CodeBytesRaj/Leetcode/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
