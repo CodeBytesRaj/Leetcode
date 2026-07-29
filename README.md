@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [3499-maximize-active-section-with-trade-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeBytesRaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CodeBytesRaj/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
