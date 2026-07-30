@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/CodeBytesRaj/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/CodeBytesRaj/Leetcode/tree/master/0029-divide-two-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/CodeBytesRaj/Leetcode/tree/master/0029-divide-two-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CodeBytesRaj/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
