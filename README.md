@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0761-special-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0076-minimum-window-substring](https://github.com/CodeBytesRaj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CodeBytesRaj/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CodeBytesRaj/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
