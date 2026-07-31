@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0007-reverse-integer](https://github.com/CodeBytesRaj/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/CodeBytesRaj/Leetcode/tree/master/0029-divide-two-integers) |
+| [1622-fancy-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2961-double-modular-exponentiation](https://github.com/CodeBytesRaj/Leetcode/tree/master/2961-double-modular-exponentiation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Number Theory
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeBytesRaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/CodeBytesRaj/Leetcode/tree/master/0641-design-circular-deque) |
+| [1622-fancy-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/1622-fancy-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
