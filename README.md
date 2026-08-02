@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0135-candy](https://github.com/CodeBytesRaj/Leetcode/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0641-design-circular-deque](https://github.com/CodeBytesRaj/Leetcode/tree/master/0641-design-circular-deque) |
+| [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/CodeBytesRaj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0007-reverse-integer](https://github.com/CodeBytesRaj/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/CodeBytesRaj/Leetcode/tree/master/0029-divide-two-integers) |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
 | [1622-fancy-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0032-longest-valid-parentheses](https://github.com/CodeBytesRaj/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeBytesRaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
@@ -258,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
