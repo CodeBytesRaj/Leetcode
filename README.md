@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/CodeBytesRaj/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/CodeBytesRaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0044-wildcard-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/CodeBytesRaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeBytesRaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeBytesRaj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CodeBytesRaj/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/CodeBytesRaj/Leetcode/tree/master/0076-minimum-window-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/CodeBytesRaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Binary Search
 |  |
 | ------- |
