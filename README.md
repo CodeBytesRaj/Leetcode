@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/CodeBytesRaj/Leetcode/tree/master/0051-n-queens) |
 | [0135-candy](https://github.com/CodeBytesRaj/Leetcode/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
