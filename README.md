@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/CodeBytesRaj/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CodeBytesRaj/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0029-divide-two-integers](https://github.com/CodeBytesRaj/Leetcode/tree/master/0029-divide-two-integers) |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0044-wildcard-matching](https://github.com/CodeBytesRaj/Leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/CodeBytesRaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeBytesRaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -265,4 +268,13 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
