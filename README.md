@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/CodeBytesRaj/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/CodeBytesRaj/Leetcode/tree/master/0051-n-queens) |
 | [0135-candy](https://github.com/CodeBytesRaj/Leetcode/tree/master/0135-candy) |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0007-reverse-integer](https://github.com/CodeBytesRaj/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/CodeBytesRaj/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/CodeBytesRaj/Leetcode/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/CodeBytesRaj/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CodeBytesRaj/Leetcode/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/CodeBytesRaj/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
