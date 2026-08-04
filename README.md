@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CodeBytesRaj/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/CodeBytesRaj/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/0052-n-queens-ii) |
 | [1980-find-unique-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
