@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CodeBytesRaj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/CodeBytesRaj/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/CodeBytesRaj/Leetcode/tree/master/0051-n-queens) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CodeBytesRaj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/CodeBytesRaj/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/CodeBytesRaj/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0761-special-binary-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/0761-special-binary-string) |
 ## Monotonic Stack
