@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/CodeBytesRaj/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3310-remove-methods-from-project](https://github.com/CodeBytesRaj/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -294,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/0052-n-queens-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/CodeBytesRaj/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/CodeBytesRaj/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
