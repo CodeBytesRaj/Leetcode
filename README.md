@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/CodeBytesRaj/Leetcode/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CodeBytesRaj/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/CodeBytesRaj/Leetcode/tree/master/1510-stone-game-iv) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/CodeBytesRaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -301,16 +303,19 @@ A collection of LeetCode questions to ace the coding interview.
 | [0877-stone-game](https://github.com/CodeBytesRaj/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/CodeBytesRaj/Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/CodeBytesRaj/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/CodeBytesRaj/Leetcode/tree/master/1510-stone-game-iv) |
 ## Algorithm X
 |  |
 | ------- |
@@ -323,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/CodeBytesRaj/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/CodeBytesRaj/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/CodeBytesRaj/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
