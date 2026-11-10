@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeBytesRaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3693-climbing-stairs-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/CodeBytesRaj/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeBytesRaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3693-climbing-stairs-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
