@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeBytesRaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/CodeBytesRaj/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/CodeBytesRaj/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Divide and Conquer
 |  |
 | ------- |
