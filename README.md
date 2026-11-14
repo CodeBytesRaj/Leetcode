@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/CodeBytesRaj/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeBytesRaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/CodeBytesRaj/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3693-climbing-stairs-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0076-minimum-window-substring](https://github.com/CodeBytesRaj/Leetcode/tree/master/0076-minimum-window-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/CodeBytesRaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CodeBytesRaj/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/CodeBytesRaj/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/CodeBytesRaj/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1140-stone-game-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/1140-stone-game-ii) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CodeBytesRaj/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeBytesRaj/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/CodeBytesRaj/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
