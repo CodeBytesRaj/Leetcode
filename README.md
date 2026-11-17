@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/CodeBytesRaj/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/CodeBytesRaj/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/CodeBytesRaj/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CodeBytesRaj/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [1510-stone-game-iv](https://github.com/CodeBytesRaj/Leetcode/tree/master/1510-stone-game-iv) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/CodeBytesRaj/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/CodeBytesRaj/Leetcode/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/CodeBytesRaj/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeBytesRaj/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3693-climbing-stairs-ii](https://github.com/CodeBytesRaj/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CodeBytesRaj/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0696-count-binary-substrings](https://github.com/CodeBytesRaj/Leetcode/tree/master/0696-count-binary-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/CodeBytesRaj/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeBytesRaj/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeBytesRaj/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
